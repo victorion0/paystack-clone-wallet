@@ -2,7 +2,7 @@
 
 **LIVE DEMO:** http://localhost:5000 (or your Railway URL)  
 **Deployed Version:** https://naija-100b-wallet.up.railway.app (after you deploy)  
-**Built by:** [Your Name] - Top 1% Naija Backend Dev  
+**Built by:** Victor Osaikhuiwuomwan - Top 1% Naija Backend Dev  
 **Stack:** Node.js + Express + In-Memory DB (zero setup)  
 **Status:** PRODUCTION READY - ₦100B+ funded in test mode!
 
@@ -21,7 +21,7 @@
 ## 💸 Quick Start (30 Seconds)
 
 ```bash
-git clone https://github.com/yourusername/naija-100b-wallet.git
+git clone https://github.com/victorion0/naija-100b-wallet.git
 cd naija-100b-wallet
 npm install
 nodemon server.js
